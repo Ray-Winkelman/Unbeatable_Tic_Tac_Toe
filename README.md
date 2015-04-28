@@ -1,7 +1,3 @@
-﻿<h1>Learning Outcomes</h1>
-
-<p>While completing the Intro to C++ course and this project I learned a tonne about C++ and memory management. I also polished my UML diagraming skills.</p>
-
 #Unbeatable Tic Tac Toe
 
 This is an algorithm for an unbeatable, artificial Tic Tac Toe opponent. I wrote this program in C++ and have included the algorithm’s activity diagram. 
